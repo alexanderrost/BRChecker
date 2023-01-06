@@ -1,0 +1,8 @@
+## Interface: 100002
+## Title: BRChecker
+## Version: 1.0.0
+## Author: zer0
+## DefaultState: enabled
+## Notes: A addon that tells people if my battle/combatres is on cd when they spam me in chat to cr
+
+BRChecker.lua
